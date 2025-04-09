@@ -2,9 +2,9 @@
 
 # To install run the following Commands
 
-npm install -g vite-blueprint
+1. npm install -g vite-blueprint
 
-vite-blueprint
+2. vite-blueprint
 
 ------------------------------------------------
 A minimal yet powerful project starter for **Vite + React**, pre-configured with:
