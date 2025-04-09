@@ -1,9 +1,12 @@
 # vite-blueprint 🚀
 
-# Run the following Commands
+# To install run the following Commands
+
 npm install -g vite-blueprint
+
 vite-blueprint
 
+------------------------------------------------
 A minimal yet powerful project starter for **Vite + React**, pre-configured with:
 
 - ✅ TailwindCSS v4
