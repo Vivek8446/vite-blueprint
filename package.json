@@ -1,6 +1,6 @@
 {
   "name": "vite-blueprint",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A comprehensive CLI tool to scaffold a Vite-based React project with a well-defined folder structure and essential packages like Axios, React Router, and Tailwind CSS v4.",
   "keywords": [
     "vite",
@@ -35,8 +35,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7",
+    "ora": "^8.2.0",
     "prompts": "^2.4.2"
   }
 }

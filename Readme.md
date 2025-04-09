@@ -18,7 +18,7 @@ Save hours of setup time and start building right away.
 - 📁 **Predefined folder structure**: `components`, `layout`, `pages`, `services`, `assets`
 - 🎨 **TailwindCSS v4** integration using `@tailwindcss/vite`
 - 🔁 **React Router v6+** setup with layout routing
-- 🌐 **Axios** with a base service (`api.js` or `api.ts`)
+- 🌐 **Axios** with a base service (`apiClient.js` or `apiClient.ts`)
 - 🧠 **Choose between TypeScript or JavaScript**
 - 🧩 Includes basic `Navbar`, `Footer`, `Home`, and `About` pages
 
