@@ -28,8 +28,8 @@ const response = await prompts([
     name: "variant",
     message: "◆  Select a variant:",
     choices: [
-      { title: "TypeScript", value: "react-ts" },
       { title: "JavaScript", value: "react" },
+      { title: "TypeScript", value: "react-ts" },
     ],
     initial: 0,
   },

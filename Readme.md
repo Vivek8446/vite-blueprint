@@ -24,13 +24,14 @@ Save hours of setup time and start building right away.
 
 ---
 
-## 🚀 Usage
+📦 Installation
+Install the CLI globally:
 
-### With `npx`
+npm install -g vite-blueprint
+🛠 Usage
+Run the CLI to scaffold a new project:
 
-```bash
-npx vite-blueprint my-app
-
+vite-blueprint
 
 
 cd my-app
