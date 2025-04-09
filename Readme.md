@@ -24,15 +24,16 @@ Save hours of setup time and start building right away.
 
 ---
 
-📦 Installation
-Install the CLI globally:
+## 🚀 Usage
 
+### With `npm`
+
+```bash
 npm install -g vite-blueprint
-🛠 Usage
-Run the CLI to scaffold a new project:
-
 vite-blueprint
 
+
+Then follow the prompts:
 
 cd my-app
 npm install
