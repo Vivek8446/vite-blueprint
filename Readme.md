@@ -2,7 +2,7 @@
 
 # To install run the following Commands
 
-npx vite-blueprint
+# ➡️ npx vite-blueprint
 
 ------------------------------------------------
 A minimal yet powerful project starter for **Vite + React**, pre-configured with:
