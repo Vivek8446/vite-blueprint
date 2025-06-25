@@ -2,7 +2,6 @@
 
 # To install run the following Commands
 
-
 # ➡️ npx vite-blueprint
 
 ------------------------------------------------
