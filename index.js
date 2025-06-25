@@ -49,7 +49,7 @@ const viteConfigFile = variant === "react-ts" ? "vite.config.ts" : "vite.config.
 try {
   // Step 1: Create Vite Project
   spinner.start("Creating Vite project...");
-  run(`npm create vite@latest ${projectName} -- --template ${variant}`);
+  run(`npm create vite@6.3.5 ${projectName} -- --template ${variant}`);
   spinner.succeed("Vite project created successfully!");
 
   // Step 2: Install Dependencies
